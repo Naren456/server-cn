@@ -85,3 +85,4 @@ destroys the framing, so it costs the connection (GOAWAY, then close).
 | unknown frame type MUST be skipped | SPEC §5; the final `else:` branch in `Conn.serve` |
 | annotated hexdump | `bserve -v` → `HEXDUMP.md` |
 # server-cn
+# server-cn
